@@ -1,0 +1,6 @@
+{
+  "cmd": "build.bat",
+  "name": "LaTeX",
+  "cwd": "{FILE_ACTIVE_PATH}",
+  "sh": false
+}
